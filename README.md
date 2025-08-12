@@ -98,19 +98,6 @@ python evaluate.py --model_dir ../run/bertcrf_best
 | **MFME-NER** | Fuses multiple features (lexicon, POS, bigram, type) using memory encoding.                 |
 | **FLAT**     | Models character-word lattice structures via flat-lattice transformer layers.               |
 
----
-
-## Experimental Results | 实验结果
-
-| Model    | Precision | Recall | F1-score |
-| -------- | --------- | ------ | -------- |
-| BERT-CRF | xx.xx     | xx.xx  | xx.xx    |
-| LEBERT   | xx.xx     | xx.xx  | xx.xx    |
-| SpanKL   | xx.xx     | xx.xx  | xx.xx    |
-| MFME-NER | xx.xx     | xx.xx  | xx.xx    |
-| FLAT     | xx.xx     | xx.xx  | xx.xx    |
-
-(*Replace `xx.xx` with actual results from your experiments.*)
 
 ---
 
