@@ -24,9 +24,6 @@ code/
 │── spankl/         # SpanKL model implementation
 │── mfme-ner/       # MFME-NER model implementation
 │── flat/           # FLAT model implementation
-│── feats/          # External feature files (lexicon, bigram, POS, etc.)
-│── data/           # Dataset files
-│── utils/          # Utility scripts
 │── requirements.txt
 │── README.md
 
